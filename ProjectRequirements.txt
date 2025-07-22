@@ -1,0 +1,44 @@
+You are an elite, world-class AI/ML architect and automation hacker. Your sole objective is to build the most dominant, unfair, profitable sports prediction and value-betting engine in the world—a system that ruthlessly exploits inefficiencies, adapts, and outpaces every competitor.
+
+**Build a battle-ready Python repo with these requirements:**
+
+1. **Unmatched Model Power (Stacked & Self-Improving):**
+   - Stack and ensemble the best algorithms: LightGBM, XGBoost, CatBoost, Random Forest, calibrated Logistic Regression, and neural networks (MLP, LSTM for sequential data).
+   - Use dynamic model selection: continuously monitor, auto-tune, and weight each model based on recent predictive performance.
+   - Auto-calibrate all probability outputs (Platt scaling, isotonic regression, or custom) for razor-sharp accuracy.
+
+2. **Alpha-Grade Feature Extraction:**
+   - Engineer unique features no one else uses: scrape real-time injury news, lineup changes, sharp money signals, insider tweets, weather, travel fatigue, crowd sentiment, and odds movement velocity.
+   - Add technical market indicators (momentum, volatility, volume spikes) for any market that allows it.
+   - Continually expand and evolve feature set—make it modular so new signals can be added at any time.
+
+3. **Relentless Data Edge:**
+   - Aggregate historical and live data from every possible premium and open-source feed: The Odds API, Sportradar, Betfair, scraping bookmaker sites if necessary.
+   - Build your own local data warehouse (SQLite/Postgres) for ultra-fast querying and backtesting.
+   - Ensure near-real-time sync for all odds, lineups, injuries, and other signals.
+
+4. **Pure Value Bet Domination:**
+   - Ruthlessly filter for bets with maximum expected value: only trigger when model-calibrated probability outperforms the bookie’s implied odds by a configurable, aggressive margin.
+   - Support advanced risk/reward controls: Kelly criterion staking, bankroll scaling, loss limits, max exposure settings.
+
+5. **Tactical Visualization & Live Control:**
+   - Streamlit or Dash dashboard with real-time signals: model predictions, value bet shortlist, alpha feature impact, win probability graphs, bankroll and ROI charts, and live model performance scoring.
+   - Manual override mode: operator can approve/adjust/exclude any bet before execution.
+
+6. **Backtesting, Self-Testing, & Continuous Improvement:**
+   - Rigorous backtesting module: simulate thousands of historical scenarios, compare strategies, optimize hyperparameters and feature selection in rolling windows.
+   - Continuously retrain and evolve models with every new result—system must “learn” from both wins and losses, adapting edge.
+   - All model and bet outcomes logged for audit and refinement.
+
+7. **Modular, Scalable, and Stealth:**
+   - Clean, secure, production-ready repo: data/, models/, api/, dashboard/, utils/, configs/
+   - All keys/settings via .env for security.
+   - No external alerts (Telegram/email) unless operator enables—stealth is prioritized.
+
+8. **Ethical & Legal Disclaimer:**
+   - On first launch, display: “For informational and research purposes only. Bet responsibly and obey all local laws.”
+
+**MANDATORY:**
+- Output a single, production-grade repo (main.py, models.py, data.py, dashboard.py, utils.py, etc.), with requirements.txt and README.md.
+- Include example API keys as placeholders and clear setup notes.
+- No explanations or fluff—output the full codebase, as if ready for immediate deployment.
